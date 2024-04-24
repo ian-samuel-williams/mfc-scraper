@@ -1,0 +1,20 @@
+{
+  "name": "cheerioexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sparticuz/chromium": "^123.0.0",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.1",
+    "mongoose": "^8.2.2",
+    "nodemailer": "^6.9.9",
+    "puppeteer-core": "22.6"
+  }
+}
